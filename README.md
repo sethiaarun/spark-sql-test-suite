@@ -5,4 +5,6 @@ You can store results for each run in Azure Storage container. To synchronize th
 
 - Self-learning
 - Validating your Spark environment
-- and are easy to extend to add your test cases for the Spark runtime session.
+- Easy to extend to add your test cases for the Spark runtime session and various configurations
+- Compare results across multiple runs
+
