@@ -8,3 +8,7 @@ You can store results for each run in Azure Storage container. To synchronize th
 - Easy to extend to add your test cases for the Spark runtime session and various configurations
 - Compare results across multiple runs
 
+## [Apache SQL 3.3 Reference](https://spark.apache.org/docs/3.3.0/sql-ref-syntax.html)
+- [DDL Statements](./DDLTestCases.ipynb)
+- [DML Statements](./DMLTestCases.ipynb)
+- [Auxiliary Statements](./AuxStatementsTestCases.ipynb)
