@@ -12,3 +12,4 @@ You can store results for each run in Azure Storage container. To synchronize th
 - [DDL Statements](./DDLTestCases.ipynb)
 - [DML Statements](./DMLTestCases.ipynb)
 - [Auxiliary Statements](./AuxStatementsTestCases.ipynb)
+- [Data Retrieval Statements](./DataRetrievalStatements.ipynb)
